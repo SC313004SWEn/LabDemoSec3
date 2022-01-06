@@ -3,3 +3,5 @@ Hello World
 Sawasdee
 
 Hello from MyBranch
+
+Add text at master
